@@ -43,3 +43,5 @@ const swiper = new Swiper(".mySwiper", {
     }
 });
 
+
+console.log('lala')
