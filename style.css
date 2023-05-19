@@ -11,7 +11,8 @@
 
 #main {
     padding: 150px 0;
-    overflow-x: hidden
+    overflow-x: hidden;
+    border: 3px solid black;
 }
 
 .mySwiper {
